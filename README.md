@@ -1,10 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Shubhankar Biswas</h1>
 
-
-<h3 align="center">As a Future DevOps Engineer, I'm genuinely eager to contribute to real-world projects and expand my knowledge. 
-Developed scalable systems using AWS, Docker, and Kubernetes. My experience includes building and improving CI/CD 
-pipelines to ensure smooth automation. Monitored and optimized application performance using Prometheus and 
-Grafana. Implemented DevSecOps best practices to strengthen and secure deployment workflows.  </h3>
+<h3 align="center" leading-relaxed text-justify>As a Future DevOps Engineer, I'm genuinely eager to contribute to real-world projects and expand my knowledge. Developed scalable systems using AWS, Docker, and Kubernetes. My experience includes building and improving CI/CD pipelines to ensure smooth automation. Monitored and optimized application performance using Prometheus and Grafana. Implemented DevSecOps best practices to strengthen and secure deployment workflows.</h3>
 
 <p align="center">
   <a href="https://github.com/Shubhankar-24x">
@@ -21,10 +17,8 @@ Grafana. Implemented DevSecOps best practices to strengthen and secure deploymen
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
-
-- 👨‍💻 Check out my projects at [https://www.devopsbyshubhankar.click]  
-- 💬 Let's Talk about **DevOps & Cloud DevOps**  
+- 👨‍💻 Check out my projects at [https://www.devopsbyshubhankar.click]
+- 💬 Let's Talk about **DevOps & Cloud DevOps**
 - 📫 How to reach me **shubhankar2821@gmail.com**
 
 ---
@@ -55,15 +49,12 @@ Grafana. Implemented DevSecOps best practices to strengthen and secure deploymen
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
 
-
-
-
 ---
+
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
-
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> _"DevOps engineer streamlining development workflows and building scalable infrastructure solutions."_
