@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 Check out my projects at [https://www.devopsbyshubhankar.click]
+- 👨‍💻 Check out my projects at [ https://www.devopsbyshubhankar.click ]
 - 💬 Let's Talk about **DevOps & Cloud DevOps**
 - 📫 How to reach me **shubhankar2821@gmail.com**
 
