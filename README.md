@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Shubhankar Biswas</h1>
 
-<h3 align="center"  text-justify>As a Future DevOps Engineer, I'm genuinely eager to contribute to real-world projects and expand my knowledge. Developed scalable systems using AWS, Docker, and Kubernetes. My experience includes building and improving CI/CD pipelines to ensure smooth automation. Monitored and optimized application performance using Prometheus and Grafana. Implemented DevSecOps best practices to strengthen and secure deployment workflows.</h3>
+<h3 align="center"  text-justify leading-relaxed>As a Future DevOps Engineer, I'm genuinely eager to contribute to real-world projects and expand my knowledge. Developed scalable systems using AWS, Docker, and Kubernetes. My experience includes building and improving CI/CD pipelines to ensure smooth automation. Monitored and optimized application performance using Prometheus and Grafana. Implemented DevSecOps best practices to strengthen and secure deployment workflows.</h3>
 
 <p align="center">
   <a href="https://github.com/Shubhankar-24x">
